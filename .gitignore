@@ -1,0 +1,4 @@
+/node_modules
+
+.nodemonignore
+package-lock.json
