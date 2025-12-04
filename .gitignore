@@ -2,3 +2,4 @@
 
 .nodemonignore
 package-lock.json
+.env
